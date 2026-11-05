@@ -1,5 +1,7 @@
 # Workshop: Lean Post-Agile Planning and Budgeting Strategies
 
+**Team Members:** Nicolas Parrado · Hildebrandon Peña · Santiago Garcia
+
 ## Case Study: Municipal Citizen Request & Complaint Management Platform
 
 A web-based platform that allows citizens to submit service requests (public lighting, waste management, infrastructure), track their status, and communicate with local authorities. Administrators can assign requests to departments, monitor resolution times, and generate performance reports.
